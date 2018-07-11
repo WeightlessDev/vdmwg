@@ -42,7 +42,7 @@ var APP_DATA = {
     },
     {
       "id": "1-habitacion-master",
-      "name": "Habitacion Master",
+      "name": "Habitacion Master \n 14.5 Metros cuadrados. \n Baño privado.",
       "levels": [
         {
           "tileSize": 256,
